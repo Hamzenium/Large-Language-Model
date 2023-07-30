@@ -1,7 +1,6 @@
 from datasets import load_dataset
 from transformers import pipeline
 
-from datasets import load_dataset
 
 xsum_dataset = load_dataset("xsum")
 xsum_sample = xsum_dataset["train"].select(range(10))
