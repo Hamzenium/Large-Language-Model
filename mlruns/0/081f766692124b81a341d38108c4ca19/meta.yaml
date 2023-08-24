@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadhamzasohail/Desktop/Large-Language-Models/mlruns/0/081f766692124b81a341d38108c4ca19/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 081f766692124b81a341d38108c4ca19
+run_name: ./dialogue-summary-training-1692876673
+run_uuid: 081f766692124b81a341d38108c4ca19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692876674857
+status: 1
+tags: []
+user_id: muhammadhamzasohail
